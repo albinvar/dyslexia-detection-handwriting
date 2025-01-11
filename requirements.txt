@@ -4,4 +4,8 @@ language-tool-python==2.7.1
 Pillow==9.2.0
 textblob==0.17.1
 streamlit==1.12.0
+altair==4.2.2
 streamlit-lottie==0.0.3
+SpeechRecognition
+pyttsx3
+eng-to-ipa
